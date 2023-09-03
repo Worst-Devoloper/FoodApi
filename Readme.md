@@ -1,6 +1,6 @@
 # Meals App
 
-An app that allows users to search for a meal and get the recipe for that meal.[click here to view the app] LINK: 
+An app that allows users to sehttps://worst-devoloper.github.io/FoodApi/arch for a meal and get the recipe for that meal.[click here to view the app] LINK: https://worst-devoloper.github.io/FoodApi/
 
 ## App Interface
 
